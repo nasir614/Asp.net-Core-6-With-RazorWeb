@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorCRUDApp.Server
+build_property.RootNamespace = BlazorCRUDApp.Server
+build_property.ProjectDir = C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Server\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Server
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Pages/AddPerson.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFBhZ2VzXEFkZFBlcnNvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFBhZ2VzXENvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Pages/DeletePerson.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFBhZ2VzXERlbGV0ZVBlcnNvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Pages/EditPerson.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFBhZ2VzXEVkaXRQZXJzb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFBhZ2VzXEZldGNoRGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFBhZ2VzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Pages/PersonList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFBhZ2VzXFBlcnNvbkxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFNoYXJlZFxTdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFNoYXJlZFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-el3ptjv7xg
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xpZW50XFNoYXJlZFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-4zk9l1kw5o
+
+[C:/Users/nasir.hassan/Documents/BlazorCRUDApp-master/BlazorCRUDApp/Server/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

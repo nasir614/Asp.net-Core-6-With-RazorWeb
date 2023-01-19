@@ -1,0 +1,12 @@
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\bin\Debug\net6.0\BlazorCRUDApp.Shared.deps.json
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\bin\Debug\net6.0\BlazorCRUDApp.Shared.dll
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\bin\Debug\net6.0\BlazorCRUDApp.Shared.pdb
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\obj\Debug\net6.0\BlazorCRUDApp.Shared.csproj.AssemblyReference.cache
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\obj\Debug\net6.0\BlazorCRUDApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\obj\Debug\net6.0\BlazorCRUDApp.Shared.AssemblyInfoInputs.cache
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\obj\Debug\net6.0\BlazorCRUDApp.Shared.AssemblyInfo.cs
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\obj\Debug\net6.0\BlazorCRUDApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\obj\Debug\net6.0\BlazorCRUDApp.Shared.dll
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\obj\Debug\net6.0\refint\BlazorCRUDApp.Shared.dll
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\obj\Debug\net6.0\BlazorCRUDApp.Shared.pdb
+C:\Users\nasir.hassan\Documents\BlazorCRUDApp-master\BlazorCRUDApp\Shared\obj\Debug\net6.0\ref\BlazorCRUDApp.Shared.dll
