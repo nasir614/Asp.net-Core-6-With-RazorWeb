@@ -1,18 +1,9 @@
 # Asp.net-Core-6-With-RazorWeb
 This  is   ASP.NET Core 6 with Razor Pages Web application. In this  project,  I have have leared  
 how to architect and build real-world ASP.NET Core apps (.NET 6).
-# I follow this instruction to implement my own crud application asp.netcore 6 and Razor pages. 
+## I follow this instruction to implement my own Crud application asp.netcore 6 and Razor pages. 
 
 
----
-title: "Tutorial: Get started with Razor Pages in ASP.NET Core"
-author: wadepickett
-description: This is the first tutorial of a series that teaches the basics of building an ASP.NET Core Razor Pages web app.
-ms.author: wpickett
-monikerRange: '>= aspnetcore-3.1'
-ms.date: 11/04/2022
-ms.custom: contperf-fy21q2
-uid: tutorials/razor-pages/razor-pages-start
 ---
 
 # Tutorial: Get started with Razor Pages in ASP.NET Core
