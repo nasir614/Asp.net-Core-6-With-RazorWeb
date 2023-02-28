@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WebBicep'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_368033840E82463BB53DA5D6CB049E8D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_71A3EBE02C4449A4BB1438B82120AA0B }}
           package: .
